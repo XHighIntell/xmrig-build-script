@@ -4,5 +4,8 @@
 3. C++ CMAKE tool for Windows
 4. 7-zip
 
-## Build
+## Usage
 Run `run.cmd`
+
+* Default use [xmrig/xmrig v6.12.2](https://github.com/xmrig/xmrig/tree/v6.12.2) and [xmrig/xmrig-deps v4.1](https://github.com/xmrig/xmrig-deps/tree/v4.1)
+* This can be used for another forks of xmrig like [MoneroOcean/xmrig](https://github.com/MoneroOcean/xmrig). Find and replace in `build.ps1`
